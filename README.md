@@ -6,6 +6,6 @@
 
 git clone https://github.com/Cyber-Knight-Official/Termux-Linux-Github-Tool-Cloner.git
 
-cd Tool Cloner.sh
+cd Termux-Linux-Github-Tool-Cloner
 
 bash 'Tool Cl.sh'
