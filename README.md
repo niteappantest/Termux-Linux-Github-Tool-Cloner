@@ -7,3 +7,5 @@
 git clone https://github.com/Cyber-Knight-Official/Termux-Linux-Github-Tool-Cloner.git
 
 cd Tool Cloner.sh
+
+bash 'Tool Cl.sh'
