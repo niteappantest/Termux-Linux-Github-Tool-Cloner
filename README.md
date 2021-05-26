@@ -5,3 +5,5 @@
 # $ This-Tool-Is a Termux & Linux important Tool Cloner Easy To Use
 
 git clone https://github.com/Cyber-Knight-Official/Termux-Linux-Github-Tool-Cloner.git
+
+cd Tool
